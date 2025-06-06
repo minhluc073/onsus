@@ -774,6 +774,11 @@
 }
 
 @media (min-width: 1200px) {
+    .ft-logo {
+        .logo-site{
+            max-width: 185px;
+        }
+    }
     .banner-product.style-2 {
         .product-wrap {
             >* {

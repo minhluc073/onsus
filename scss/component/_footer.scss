@@ -16,7 +16,11 @@
         flex-shrink: 0;
     }
 }
-
+.ft-logo {
+    .logo-site{
+        max-width: 130px;
+    }
+}
 .method-list {
     display: flex;
     gap: 20px;

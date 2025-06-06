@@ -2504,6 +2504,10 @@ header.header-type-stc {
   flex-shrink: 0;
 }
 
+.ft-logo .logo-site {
+  max-width: 130px;
+}
+
 .method-list {
   display: flex;
   gap: 20px;
@@ -9404,6 +9408,9 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
   }
 }
 @media (min-width: 1200px) {
+  .ft-logo .logo-site {
+    max-width: 185px;
+  }
   .banner-product.style-2 .product-wrap > * {
     width: auto;
   }
